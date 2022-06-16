@@ -1,0 +1,36 @@
+.opskrifter {
+background-color:rgb(300,400,21);
+text-align:center;
+color:blue;
+font-weight:bold;
+}
+.centrering {
+text-align:center;
+
+}
+.makrelmad2{
+text-align:center;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.makrelbillede {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.imidten{
+text-align:center;
+}
+
+
+#link-makrelmad {
+font-size:28px;
+font-family: Helvetica,Times New Roman,"sans-serif";
+}
