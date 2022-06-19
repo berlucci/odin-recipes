@@ -1,22 +1,38 @@
-.opskrifter {
-background-color:rgb(300,400,21);
-text-align:center;
-color:blue;
-font-weight:bold;
+body {
+background-color:lightblue;
 }
-.centrering {
+.opskrifter {
+
 text-align:center;
+color:white;
+font-weight:bold;
+padding:50px;
+margin:auto;
+border:4px solid green;
+background-image:url("https://pizzapalaceburwell.com/wp-content/uploads/2021/11/Food.jpg");
+margin-bottom:-16px;
+}
+
+
+
+#links{
+text-align:center;
+background-color:lightblue;
+border:1px solid white;
+
 
 }
+
 .makrelmad2{
 text-align:center;
 }
 
 .center2 {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+ margin: auto;
   width: 50%;
+margin-top:-16px;
+width:50vw;
 }
 .makrelbillede {
 display: block;
@@ -27,6 +43,10 @@ display: block;
 }
 .imidten{
 text-align:center;
+}
+
+.center2{
+margin-top:50px;
 }
 
 
